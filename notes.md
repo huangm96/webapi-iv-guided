@@ -14,4 +14,6 @@ make change > commit and push > get deployed
 - search your repo on Github > connect
 - choose the branch to deploy and automaic deploy
 - click deploy branch
-- go to the overview tap 
+- go to the overview tap
+- once it is "Deployed" click on open app on the top right
+- 
